@@ -1,6 +1,4 @@
 /*
- * Nickolas Delgado
- * CIS2503 Advanced Java
  * Programming Challange 9.1: Backward String
  * Date of Last Modification: 03/20/2025
  * 
